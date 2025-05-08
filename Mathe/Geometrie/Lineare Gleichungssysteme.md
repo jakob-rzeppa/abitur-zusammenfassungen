@@ -27,4 +27,34 @@ Ein LGS kann:
 
 ## Gauss Algorithmus
 
-**TODO**
+Um ein LGS zu lösen kann der Gauss Algorithmus angewand werden. Gegeben ist z.B. ein LGS mit drei Gleichungen und drei Unbekanten ($x_1;x_2;x_3$):
+
+$$
+\begin{matrix}
+    a_{1,1} x_1& + &a_{1,2} x_2& + &a_{1,3} x_3 &= b_1 \\
+    a_{2,1} x_1& + &a_{2,2} x_2& + &a_{2,3} x_3 &= b_2 \\
+    a_{3,1} x_1& + &a_{3,2} x_2& + &a_{3,3} x_3 &= b_3
+\end{matrix}
+$$
+
+Nun wird das LGS zunächst in eine Stufenform gebracht. Dies geschieht, in dem entsprechend gewählte Vielfache der ersten Zeile auf die Zweite und dritte Zeile addiert werden, um hier eine Unbekannte zu Elimineren.
+
+$$
+\begin{matrix}
+    a_{1,1} x_1& + &a_{1,2} x_2& + &a_{1,3} x_3 &= b_1 \\
+    && a_{2,2} x_2& + &a_{2,3} x_3 &= b_2 \\
+    && a_{3,2} x_2& + &a_{3,3} x_3 &= b_3
+\end{matrix}
+$$
+
+Nun wird die zweite auf die dritte Zeile so addiert, dass wieder eine Unbekannte eliminiert wird.
+
+$$
+\begin{matrix}
+    a_{1,1} x_1& + &a_{1,2} x_2& + &a_{1,3} x_3 &= b_1 \\
+    && a_{2,2} x_2& + &a_{2,3} x_3 &= b_2 \\
+    &&&&a_{3,3} x_3 &= b_3
+\end{matrix}
+$$
+
+Nun kann in der dritten Zeile der Wert der Unbekannten abgelesen werden, was es anschließend ermöglicht den wert der nächsten Unbekanten zu erschließen usw.
