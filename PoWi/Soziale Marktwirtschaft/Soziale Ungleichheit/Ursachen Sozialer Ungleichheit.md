@@ -56,3 +56,7 @@
 ### Unternehmen
 
 - 92% der 500 umsatzstärksten Unternehmen befinden sich im Westen
+
+## Bildungsungleichheit
+
+## soz. Herkunft

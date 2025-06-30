@@ -27,7 +27,7 @@ z. B. BIP/Bevölkerungszahl des Landes
 
 - zur Analyse von Wohlstandsentwicklungen -> keine Aussage über die Einkommensverteilung möglich
 
-#### Äquivalenzeinkommen
+#### Nettoäquivalenzeinkommen
 
 Umrechnung des Haushaltseinkommens auf die Zahl der Personen; Einkommen, welches jedem Haushaltsmitglied, wenn es allein lebend und erwachsen wäre, den gleichen Lebensstandard ermöglicht, den es im Haushalt genießt; Berücksichtigung von Einspareffekten z.B. durch die gemeinsame Nutzung der Wohnung
 
@@ -45,6 +45,7 @@ Umrechnung des Haushaltseinkommens auf die Zahl der Personen; Einkommen, welches
 - **Limitierung**:
   - Erfasst nur relative Verteilung, keine absoluten Wohlstandsniveaus.
   - Lässt andere Faktoren der Sozialen Ungleichheit außen vor.
+  - sagt nicht wie entstanden
 
 ### Armut
 

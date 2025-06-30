@@ -7,7 +7,9 @@
 - **Anreizwirkung:** Wie stark das Instrument Unternehmen und Bürger motiviert, umweltfreundliches Verhalten zu zeigen.
 - **Politische Durchsetzbarkeit:** Wie einfach oder schwierig es ist, das Instrument politisch zu implementieren und durchzusetzen.
 
-## Rechtliche Instrumente (Ge- und Verbote)
+## Ordnungsrechtliche Instrumente (Ge- und Verbote)
+
+> Prinzip des hoheitlichen Zwanges (wird von oben bestimmt)
 
 Rechtliche Instrumente setzen verbindliche Vorgaben, die Unternehmen und Bürger einhalten müssen. Diese Vorschriften sind oft in Form von Gesetzen, Verordnungen oder Grenzwerten formuliert.
 
@@ -33,6 +35,8 @@ Rechtliche Instrumente setzen verbindliche Vorgaben, die Unternehmen und Bürger
 
 ### Finanzpolitische Instrumente (Steuern, Abgaben)
 
+> Prinzip der Anreizorientierung
+
 Diese Instrumente erheben Abgaben auf umweltschädliche Aktivitäten, wodurch deren Kosten steigen und die Nachfrage sinkt.
 
 - **Beispiele:** CO₂-Steuer auf fossile Brennstoffe, Plastiksteuer, Wasserabgaben.
@@ -47,6 +51,8 @@ Diese Instrumente erheben Abgaben auf umweltschädliche Aktivitäten, wodurch de
 
 ### Marktförmige Instrumente (Zertifikate)
 
+> Prinzip der Anreizorientierung
+
 Hier erhalten Unternehmen Zertifikate für bestimmte Emissionsmengen. Wer weniger emittiert, kann überschüssige Zertifikate verkaufen.
 
 - **Beispiele:** EU-Emissionshandelssystem (EU ETS), bei dem Unternehmen CO₂-Zertifikate kaufen und handeln können.
@@ -59,7 +65,11 @@ Hier erhalten Unternehmen Zertifikate für bestimmte Emissionsmengen. Wer wenige
 - **Politische Durchsetzbarkeit:**
   - Relativ hoch, da Unternehmen durch Handel Flexibilität gewinnen. Allerdings ist das System komplex und erfordert sorgfältige Regulierung, um Marktmanipulationen zu vermeiden.
 
-## Weitere verhaltenssteuernde Instrumente (Anreizsysteme)
+## Kooperative Instrumente (Anreizsysteme)
+
+> Prinzip der Freiwilligkeit
+
+Beispiel: Pariser Klimaabkommen
 
 Diese Instrumente setzen auf Bewusstseinsbildung und freiwillige Maßnahmen ohne Zwang oder finanzielle Strafen.
 
